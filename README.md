@@ -1,0 +1,1 @@
+This was a solo project for the scrimba front end developer course.
